@@ -1,0 +1,15 @@
+p {
+    margin-top: 20px;
+}
+
+.movies__blok {
+    width: 77%;
+    height: 968px;
+    position: absolute;
+    background-color: black;
+    top: 152px;
+    right: 62px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
